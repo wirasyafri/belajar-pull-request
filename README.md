@@ -10,7 +10,7 @@ Menurut halaman Github di [sini](https://help.github.com/en/articles/about-pull-
 
 ## Apa untungnya buat saya dan kolaborator?
 
-Kita ambil contoh kasus berikut: Anda melihat proyek di Github yang potensial. Namun, ada flow yang sekiranya kurang efektif dan anda mampu membetulkannya. Sayangnya, anda tidak mempunyai akses *write* ke *repository* tersebut, karena anda maupun dia tidak mengenal satu sama lain. 
+Kita ambil contoh kasus berikut: Anda melihat proyek di Github yang potensial. Namun, ada flow yang sekiranya kurang efektif dan anda mampu membetulkannya. Sayangnya, anda tidak mempunyai akses *write* ke *repository* tersebut, karena anda maupun dia tidak mengenal satu sama lain.
 
 Anda dapat membetulkan flow yang kurang efektif, lalu melakukan **PR** ke pemilik *repository*. Pemilik *repository* kemudian mendapatkan notifikasi ada yang melakukan **PR** ke *repository* miliknya. Ternyata, pemilik *repository* setuju dengan perubahan anda, dan perubahan yang anda **PR** di*merge* ke dalam *repository* miliknya.
 
@@ -37,9 +37,13 @@ git clone <link repository yang sudah difork>
 cd belajar-pull-request
 ```
 - Ubah file sesuai dengan keperluan anda
+- Commit file yang tadi sudah diubah dengan cara
+```
+git commit . -m 'isi pesan commit'
+```
 - *Push* ke *repository* anda dengan cara:
 ```
-# Push ke repository anda 
+# Push ke repository anda
 git push origin master
 ```
 - Buka halaman *repository* ini, lalu tekan tombol ***Create Pull Request***
@@ -50,6 +54,6 @@ git push origin master
 
 ## Closing
 
-Apabila anda punya pertanyaan, saya akan berusaha menjawab pertanyaan anda di Twitter ([@dennypradipta_](https://www.twitter.com/dennypradipta_)) karena akhir-akhir ini mulai aktif Twitter lagi. 
+Apabila anda punya pertanyaan, saya akan berusaha menjawab pertanyaan anda di Twitter ([@dennypradipta_](https://www.twitter.com/dennypradipta_)) karena akhir-akhir ini mulai aktif Twitter lagi.
 
 Happy hacking!

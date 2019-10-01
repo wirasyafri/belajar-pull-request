@@ -9,3 +9,4 @@ Tambahkan nama dan link profil anda dibawah ini dengan cara:
 # Para Kontributor
 
 - [Denny Pradipta](https://www.github.com/dennypradipta)
+- [Muhammad Mugni Hadi](https://github.com/mugnimaestra)
