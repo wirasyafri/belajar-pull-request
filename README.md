@@ -44,6 +44,7 @@ cd belajar-pull-request
 git commit . -m 'isi pesan commit'
 ```
 ![commit](assets/commit.png)
+
 [Writing good commit messages](https://github.com/erlang/otp/wiki/writing-good-commit-messages)
 - *Push* ke *repository* anda dengan cara:
 ```
