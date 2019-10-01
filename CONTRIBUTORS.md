@@ -10,3 +10,4 @@ Tambahkan nama dan link profil anda dibawah ini dengan cara:
 
 - [Denny Pradipta](https://www.github.com/dennypradipta)
 - [Muhammad Mugni Hadi](https://github.com/mugnimaestra)
+- [Dika Adhitama](https://github.com/kucinghitam13)

@@ -25,6 +25,7 @@ Kontribusi yang anda lakukan sangat simpel, yaitu menambahkan nama anda dan link
 **PR** dapat dilakukan dengan mengikuti langkah-langkah sebagai berikut:
 
 - ***Fork*** *repository* ini (klik tombol di pojok kanan atas)
+![fork](assets/fork.jpg)
 - Setelah proses *fork* selesai, lakukan:
 ```
 # Kode ini dilakukan di terminal Linux atau OSX
@@ -36,19 +37,25 @@ git clone <link repository yang sudah difork>
 # Pindah ke directory belajar-pull-request
 cd belajar-pull-request
 ```
+![clone](assets/clone.png)
 - Ubah file sesuai dengan keperluan anda
 - Commit file yang tadi sudah diubah dengan cara
 ```
 git commit . -m 'isi pesan commit'
 ```
+![commit](assets/commit.png)
+[Writing good commit messages](https://github.com/erlang/otp/wiki/writing-good-commit-messages)
 - *Push* ke *repository* anda dengan cara:
 ```
 # Push ke repository anda
 git push origin master
 ```
+![push](assets/push.png)
 - Buka halaman *repository* ini, lalu tekan tombol ***Create Pull Request***
+![createpr](assets/createpr.jpg)
 - Cek kembali apakah ada *conflict* antara apa yang anda *push* dan yang ada di *repository* sekarang. Apabila ada, anda harus kembali ke terminal dan melakukan ```git pull origin master``` di terminal anda, lalu ***push*** kembali.
 - Jika tidak ada *conflict*, tekan tombol ***Create Pull Request***
+![createpr2](assets/createpr2.jpg)
 - Setelah anda melakukan **PR**, **PR** yang anda lakukan akan direview oleh pemilik *repository* yaitu saya. Apabila sesuai, akan saya *merge*.
 - **Selesai!**
 
