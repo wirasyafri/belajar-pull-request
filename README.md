@@ -2,11 +2,11 @@
 
 ## Pembukaan
 
-*Repository* ini adalah repo untuk belajar **Pull Request** bagi para pengembang, untuk dapat mengelola repo dengan banyak kolaborator. Repo ini dibuat karena adanya acara tahunan **Hacktoberfest 2019**. Melalui repo ini, anda akan belajar untuk melakukan **Pull Request** dengan menambahkan nama dan link profil Github anda di file CONTRIBUTORS.md.
+*Repository* ini adalah repo untuk belajar mengenai **Pull Request** bagi para pengembang, untuk dapat mengelola repo dengan banyak kolaborator. Repo ini dibuat karena adanya acara tahunan **Hacktoberfest 2019**. Melalui repo ini, anda akan belajar untuk melakukan **Pull Request** dengan menambahkan nama dan link profil Github anda di file CONTRIBUTORS.md.
 
 ## Apa itu **Pull Request**?
 
-Menurut halaman Github di [sini](https://help.github.com/en/articles/about-pull-requests) (Halaman dibuka 27 September 2019), ***Pull Request*** atau **PR** adalah suatu metode untuk memberi tahu yang lain bahwa ada perubahan yang di*push* ke suatu branch di dalam *repository* Github. Ketika **PR** telah dibuka, anda dapat mendiskusikan dan mengulas berbagai perubahan dengan para kolaborator dan menambah *commit-commit* tambahan sebelum perubahanmu di*merge* ke dalam branch utama.
+Menurut halaman Github di [sini](https://help.github.com/en/articles/about-pull-requests) (Halaman dibuka 27 September 2019), ***Pull Request*** atau **PR** adalah suatu metode untuk memberi tahu kolaborator lain bahwa ada perubahan yang di*push* ke suatu branch di dalam *repository* Github. Ketika **PR** telah dibuka, anda dapat mendiskusikan dan mengulas berbagai perubahan dengan para kolaborator dan menambah *commit-commit* tambahan sebelum perubahanmu di*merge* ke dalam branch utama.
 
 ## Apa untungnya buat saya dan kolaborator?
 
@@ -24,12 +24,13 @@ Kontribusi yang anda lakukan sangat simpel, yaitu menambahkan nama anda dan link
 
 **PR** dapat dilakukan dengan mengikuti langkah-langkah sebagai berikut:
 
+- Download dan Install [GIT](https://git-scm.com/downloads)
+
 - ***Fork*** *repository* ini (klik tombol di pojok kanan atas)
 ![fork](assets/fork.jpg)
 - Setelah proses *fork* selesai, lakukan:
 ```
-# Kode ini dilakukan di terminal Linux atau OSX
-# Mungkin ada yang bisa menambahkan untuk Windows?
+# Kode ini dilakukan di terminal Linux, Windows dan OSX
 
 # Clone repository yang sudah di fork
 git clone <link repository yang sudah difork>
@@ -37,6 +38,7 @@ git clone <link repository yang sudah difork>
 # Pindah ke directory belajar-pull-request
 cd belajar-pull-request
 ```
+
 ![clone](assets/clone.png)
 - Ubah file sesuai dengan keperluan anda
 - Commit file yang tadi sudah diubah dengan cara
