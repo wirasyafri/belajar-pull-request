@@ -14,3 +14,4 @@ Tambahkan nama dan link profil anda dibawah ini dengan cara:
 - [Dhimas Ilya'sa Swandy](https://github.com/MikuDroid)
 - [Kartiko Pramudito](https://github.com/kartikopr)
 - [Daffa Daraz](https://github.com/daffadaraz)
+- [Syafri Wira Wicaksana](https://github.com/wirasyafri)
