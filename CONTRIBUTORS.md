@@ -15,3 +15,4 @@ Tambahkan nama dan link profil anda dibawah ini dengan cara:
 - [Kartiko Pramudito](https://github.com/kartikopr)
 - [Daffa Daraz](https://github.com/daffadaraz)
 - [Syafri Wira Wicaksana](https://github.com/wirasyafri)
+- [Hasan Effendy](https://github.com/effendy16)
